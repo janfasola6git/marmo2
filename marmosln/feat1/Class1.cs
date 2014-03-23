@@ -7,5 +7,6 @@ namespace feat1
 {
     public class Class1
     {
+        // cos se dzialam zobaczymy czy zniknie
     }
 }
