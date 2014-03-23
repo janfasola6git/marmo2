@@ -8,5 +8,6 @@ namespace feat2
     public class Class1
     {
       //  dzidek miesza w dwojce
+       // zobaczymy czy zostanie
     }
 }
