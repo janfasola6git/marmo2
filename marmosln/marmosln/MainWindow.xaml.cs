@@ -23,6 +23,7 @@ namespace marmosln
         {
             InitializeComponent();
             //zmiany w masterze
+            //kolejne z zmiany w mastarrze
         }
     }
 }
